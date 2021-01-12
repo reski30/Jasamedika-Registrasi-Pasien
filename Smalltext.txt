@@ -1,0 +1,19 @@
+Admin
+> dapat menambahkan kelurahan
+> mengubah kelurahan
+
+operator
+> dapat melakukan resgistrasi pasien
+> operator mencetak kartu pasien
+> operator memberikan id pasien berupa YYMM123456
+
+pasien
+> Nama Pasien
+> Alamat
+> No Telepon
+> RT/RW/
+> Kelurahan
+> Tanggal Lahir 
+> Jenis Kelamin
+
+nama kelurahan yang diinput nama kel, nama kec, dan nama kota
